@@ -1,2 +1,2 @@
-# Moving-Ball
-A moving ball that is taking the location from database
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
